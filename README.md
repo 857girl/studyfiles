@@ -13,3 +13,5 @@
 如果加载较慢，请挂梯子或镜像。
 
 # CKW&AST&GHMareBIGX8
+
+甘鸿铭`CKW`AST学霸精神永垂不朽
