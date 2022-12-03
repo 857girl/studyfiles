@@ -15,3 +15,5 @@
 # CKW&AST&GHMareBIGX8
 
 甘鸿铭`CKW`AST学霸精神永垂不朽
+
+Ganhongming.name=is.XUEBA
